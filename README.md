@@ -1,2 +1,2 @@
-# Random website made using claude.ai
-<a href="http://www.shishir.wiki">shishir.wiki</a>
+# watch it live
+<a href="http://www.shishir.earth">shishir.earth</a>
